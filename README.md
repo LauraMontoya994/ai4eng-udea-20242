@@ -2,7 +2,7 @@
 
 ### Participantes:
 
-## Nombre participante 1: Sneyder Buitrago González
+### Nombre participante 1: Sneyder Buitrago González
 ### Cc. 1007412020 
 ### Programa:Ingeneiría de Sistemas.
 ### Nombre participante 2: Laura Cristina Montoya Rodriguez
