@@ -12,5 +12,5 @@
 ### Cc. 1001137973 
 ### Programa: Ingeniería de Sistemas.
 
-### Enlace del video en Youtube. 
+### Enlace del video en Youtube: 2da entrega. 
 ### https://youtu.be/l7KOrUjTX4k
